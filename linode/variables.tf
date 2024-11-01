@@ -12,7 +12,7 @@ variable "image" {
 
 variable "node_type" {
   type    = string
-  default = "g6-standard-2" # Linode 8 GB プラン
+  default = "g6-standard-2" # Linode 4 GB プラン
 }
 
 variable "count_servers" {
