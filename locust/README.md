@@ -14,8 +14,6 @@ The `locustfile.py` script contains a simple test case that sends GET requests t
 
 ### `locustfile.py` Example
 
-```
-
 In this example:
 - Each simulated user repeatedly sends a GET request to `/dummy`.
 
